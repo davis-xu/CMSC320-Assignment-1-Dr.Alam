@@ -9,3 +9,7 @@ Answer: Data science can be applied to machine learning. Machine learning needs 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines changes in one branch to another and retains the commit history. Rebasing moves changes in one branch to the beginning of the other, thus changing the commit history.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to learn Python in this course, and overall learn more about data science as this is a field I am unfamiliar with.
